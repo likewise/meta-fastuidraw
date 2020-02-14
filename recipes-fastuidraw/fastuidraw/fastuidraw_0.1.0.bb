@@ -14,6 +14,7 @@ DEPENDS = "freetype flex-native virtual/libgl virtual/libgles2"
 DEPENDS += "fontconfig libsdl2 libsdl2-image"
 
 SRCREV = "${AUTOREV}"
+SRCREV = "3c46643102b51c5d9c2464849b1586c32fa059fb"
 
 #SRC_URI = "git://github.com/intel/fastuidraw.git"
 SRC_URI = "git://github.com/likewise/fastuidraw.git"
